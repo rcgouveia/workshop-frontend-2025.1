@@ -6,6 +6,9 @@
 <img src="public/assets/Peek 01-03-2025 23-42.gif" width="1000px">
 
 
+[Vercel](https://workshop-frontend-2025-1-three.vercel.app/)
+
+
 ## 📕 Sobre
 Este projeto foi desenvolvido como parte de um desafio para ingresso em na fábrica de software 2025.1. O CardForge é um site interativo que permite aos usuários sortear cartas aleatórias de Pokémon TCG, proporcionando uma experiência dinâmica e divertida.
 
