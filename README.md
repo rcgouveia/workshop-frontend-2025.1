@@ -6,33 +6,34 @@
 <img src="public/assets/Peek 01-03-2025 23-42.gif" width="1000px">
 
 
-📕 Sobre
+## 📕 Sobre
 Este projeto foi desenvolvido como parte de um desafio para ingresso em na fábrica de software 2025.1. O CardForge é um site interativo que permite aos usuários sortear cartas aleatórias de Pokémon TCG, proporcionando uma experiência dinâmica e divertida.
 
-🛠 Tecnologias
+## 🛠 Tecnologias
 Next.js 15.1.17
 React 19.0
 Swiper 11.2.4
 TailWind 3.4.1
 The PokemonTCG API
 
-Como utilizar
+## 📝 Como utilizar
+```bash
    $ git clone https://github.com/rcgouveia/workshop-frontend-2025.1
-
-
+```
+```bash
    $ npm install
-
-
+```
+```bash
    $ cd cardforge
-
-
+```
+```bash
    $ npm run dev 
+```
 
-
-🧾 License
+## 🧾 License
 MIT License
 
-Copyright (c) 2025 [Seu Nome]
+Copyright (c) 2025 Rodrigo Campos Gouveia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
